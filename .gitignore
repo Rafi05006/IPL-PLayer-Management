@@ -1,0 +1,9 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Java compiler output
+out/
+
+# Local credentials and runtime data
+credentials.txt
